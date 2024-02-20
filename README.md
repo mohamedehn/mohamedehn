@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mohamed !
 
 A passionate Angular developer from France.
-I'm currently working at SPARTE.
+I'm currently working at [SPARTE](https://sparte.io/).
 
 ## About me
 
@@ -11,10 +11,10 @@ I'm currently working at SPARTE.
 
 ## Tech
 
-- 🌐 Spring Boot - Node Js
+- 🌐 Node Js
 - 🅰️ Angular 
 - 🛢️ BDD : SurrealDB - Cassandra - MongoDB - MySQL
-- ⚙️ Other : NextJs - TailWindCSS 
+- ⚙️ Other : NextJs - TailWindCSS - Spring Boot - Docker - FireBase
 
 ## How to reach me
 
