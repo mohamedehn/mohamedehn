@@ -5,16 +5,17 @@ I'm currently working at [SPARTE](https://sparte.io/).
 
 ## About me
 
-- 💻 Developer JavaScript / Java
+- 💻 Developer JavaScript - Java
 - 🌐 Passionate by creating strong and robust apps
 - 🚀 Always looking for knowledge and improve my skills
 
 ## Tech
 
-- 🌐 Node Js
 - 🅰️ Angular 
+- 🌐 Node Js
+- 🍃 Spring Boot
 - 🛢️ BDD : SurrealDB - Cassandra - MongoDB - MySQL
-- ⚙️ Other : NextJs - TailWindCSS - Spring Boot - Docker - FireBase
+- ⚙️ Other : NextJs - TailWindCSS - Docker - FireBase - GraphQL
 
 ## How to reach me
 
