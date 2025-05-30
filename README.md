@@ -5,7 +5,7 @@ I'm currently working at [SPARTE](https://sparte.io/).
 
 ## About me
 
-- 💻 Developer JavaScript - Java
+- 💻 Developer Java - Angular - Node Js
 - 🌐 Passionate by creating strong and robust apps
 - 🚀 Always looking for knowledge and improve my skills
 
@@ -15,7 +15,7 @@ I'm currently working at [SPARTE](https://sparte.io/).
 - 🌐 Node Js
 - 🍃 Spring Boot
 - 🛢️ BDD : SurrealDB - MongoDB - MySQL
-- ⚙️ Other : NextJs - TailWindCSS - Docker - AWS - GraphQL
+- ⚙️ Other : React - NextJs - TailWindCSS - Docker - AWS - GraphQL
 
 ## How to reach me
 
