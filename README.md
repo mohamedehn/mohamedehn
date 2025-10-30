@@ -15,7 +15,7 @@ I'm currently working at [SPARTE](https://sparte.io/).
 - 🌐 Node Js
 - 🍃 Spring Boot
 - 🛢️ BDD : SurrealDB - MongoDB - MySQL
-- ⚙️ Other : React - NextJs - TailWindCSS - Docker - AWS - GraphQL
+- ⚙️ Other : React - TailWindCSS - Docker - AWS - GraphQL
 
 ## How to reach me
 
