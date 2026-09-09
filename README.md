@@ -19,7 +19,6 @@ I'm currently working at [SPARTE](https://sparte.io/).
 
 ## How to reach me
 
-- 🐦 [@ehn_dev](https://twitter.com/@ehn_dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-ebarhmatin-376731179/?original_referer=https%3A%2F%2Fgithub.com%2Fmohamedehn)
 
 Don't hesitate to explore my projects !
